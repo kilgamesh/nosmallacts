@@ -1,16 +1,326 @@
 {
 	"funny": [
 		{
-			"quote": "",
-			"character": "",
-			"title": ""
+			"quote": "Laziness is such an ugly word, I prefer selective participation.",
+			"character": "Lucifer",
+			"title": "Devil Is A Part-Timer!"
+		},
+		{
+			"quote": "An apple a day keeps anyone away if you throw it hard enough!",
+			"character": "Marie Mjolnir",
+			"title": "Soul Eater"
+		},
+		{
+			"quote": "Laziness is the mother of all bad habits. But ultimately, she is a mother and we should respect her.",
+			"character": "Shikamaru",
+			"title": "Naruto"
+		},
+		{
+			"quote": "My hobby is eating different kinds of ramen and comparing them.",
+			"character": "Naruto Uzumaki",
+			"title": "Naruto"
+		},
+		{
+			"quote": "I have two rules. Rule one: I’m always right. Rule two: If I’m wrong, refer to rule one…",
+			"character": "L",
+			"title": "Death Note"
+		},
+		{
+			"quote": "Now all that is left is the destruction of the earth, but I think it would be a waste to destroy it. The food of this planet is very delicious.",
+			"character": "Beerus",
+			"title": "Dragon Ball Super"
+		},
+		{
+			"quote": "Don't you know it's rude to grow mushrooms in other people's closets?!!",
+			"character": "Fujioka Haruhi",
+			"title": "Ouran Host Club"
+		},
+		{
+			"quote": "I have a family of my own I need to tend to. Two boys and a wife. An extremely angry wife who probably wants to kill me right now.",
+			"character": "Son Goku",
+			"title": "Dragon Ball Z"
+		},
+		{
+			"quote": "There are three things I cannot tolerate: cowardice, bad haircuts, and military insurrection, and it is very unfortunate that our friend Vegeta possesses all three of these.",
+			"character": "Frieza",
+			"title": "Dragon Ball Z"
+		},
+		{
+			"quote": "Our weakness is that we are morons.",
+			"character": "Angel",
+			"title": "Angel Beats"
+		},
+		{
+			"quote": "I see. I do not understand even one of those problems.",
+			"character": "Sasuke Uchiha",
+			"title": "Naruto"
+		},
+		{
+			"quote": "Please don't worry, Mister, I only came here to obliterate you, not rob you.",
+			"character": "Excel",
+			"title": "Excel Saga"
+		},
+		{
+			"quote": "When you’re in high school you should be doing things, about which you could never tell your parents!",
+			"character": "Isshin Kurosaki",
+			"title": "Bleach"
+		},
+		{
+			"quote": "I don’t wanna brag or anything, but when it comes to being the worst - I’m at the top.",
+			"character": "Astolfo",
+			"title": "Fate Apocrypha"
+		},
+		{
+			"quote": "The only thing more important than wearing the right underwear to the doctor is wearing the right underwear into battle.",
+			"character": "Konohamaru",
+			"title": "Naruto"
+		},
+		{
+			"quote": "A true hero always arrives late.",
+			"character": "Naruto Uzumaki",
+			"title": "Naruto"
+		},
+		{
+			"quote": "If you use your head, you won’t get fat even if you eat sweets.",
+			"character": "L",
+			"title": "Death Note"
+		},
+		{
+			"quote": "If you die, I’ll kill you!",
+			"character": "Roronoa Zoro",
+			"title": "One Piece"
+		},
+		{
+			"quote": "Don’t talk, it makes you sound stupid.",
+			"character": "Yusuke",
+			"title": "Yu Yu Hakusho"
+		},
+		{
+			"quote": "I can’t develop feelings. That’s how most idiots screw up.",
+			"character": "Light Yagami",
+			"title": "Death Note"
+		},
+		{
+			"quote": "What a low blow! You fiend of a child! A punch to the scrotum is unforgivable!",
+			"character": "Tenya Iida",
+			"title": "My Hero Academia"
+		},
+		{
+			"quote": "If you keep this secret, this strawberry is yours.",
+			"character": "L",
+			"title": "Death Note"
+		},
+		{
+			"quote": "So tell me, what’s it like living in a constant haze of stupidity?",
+			"character": "Hiei",
+			"title": "Yu Yu Hakusho"
 		}
 	],
 	"inspirational": [
 		{
-			"quote": "",
-			"character": "",
-			"title": ""
+			"quote": "The difference between a novice and a master is that a master has failed more times than a novice had tried.",
+			"character": "Koro-Sensei",
+			"title": "Assassination Classroom"
+		},
+		{
+			"quote": "I hate perfection. To be perfect is to be unable to improve any further.",
+			"character": "Kurotsuchi Mayuri",
+			"title": "Bleach"
+		},
+		{
+			"quote": "Every journey begins with a single step. We just have to have patience.",
+			"character": "Milly Thompson",
+			"title": "Trigun"
+		},
+		{
+			"quote": "If you don’t like the hand that fate’s dealt you with, fight for a new one.",
+			"character": "Naruto Uzumaki",
+			"title": "Naruto"
+		},
+		{
+			"quote": "You’ve got two legs and a heartbeat. What’s stopping you?",
+			"character": "Inuyasha",
+			"title": "Inuyasha"
+		},
+		{
+			"quote": "If you don’t take risks, you can’t create a future.",
+			"character": "Monkey D. Luffy",
+			"title": "One Piece"
+		},
+		{
+			"quote": "Learn to treasure your life because unfortunately, it can be taken away from you anytime.",
+			"character": "L",
+			"title": "Death Note"
+		},
+		{
+			"quote": "Don’t give up, there’s no shame in falling down! The true shame is to not stand up again!",
+			"character": "Shintaro Midorima",
+			"title": "Kuroko no Basuke"
+		},
+		{
+			"quote": "It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt.",
+			"character": "Grimsley",
+			"title": "Pokémon"
+		},
+		{
+			"quote": "Life is not a game of luck. If you wanna win, work hard.”",
+			"character": "Sora",
+			"title": "No Game No Life"
+		},
+		{
+			"quote": "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder.",
+			"character": "Gildarts Clive",
+			"title": "Fairy Tail"
+		},
+		{
+			"quote": "The ticket to the future is always open.”",
+			"character": "Vash The Stampede",
+			"title": "Trigun"
+		},
+		{
+			"quote": "Be your own hero.",
+			"character": "All Might",
+			"title": "My Hero Academia"
+		},
+		{
+			"quote": "Even if I'm broken, I will never give up.",
+			"character": "Tanjiro Kamado",
+			"title": "Demon Slayer"
+		},
+		{
+			"quote": "Not giving up is my magic.",
+			"character": "Asta",
+			"title": "Black Clover"
+		},
+		{
+			"quote": "Believe in your own power.",
+			"character": "Mikasa Ackerman",
+			"title": "Attack on Titan"
+		},
+		{
+			"quote": "Work at it. All I can do is work hard! That's the story of my life!",
+			"character": "Tanjiro Kamado",
+			"title": "Demon Slayer"
+		},
+		{
+			"quote": "No matter how many people you may lose, you have no choice but to go on living. No matter how devastating the blows might be.",
+			"character": "Tanjiro Kamado",
+			"title": "Demon Slayer"
+		},
+		{
+			"quote": "People’s lives don’t end when they die, it ends when they lose faith.",
+			"character": "Itachi Uchiha",
+			"title": "Naruto"
+		},
+		{
+			"quote": "The moment you think of giving up, think of the reason why you held on so long.",
+			"character": "Natsu Dragneel",
+			"title": "Fairy Tail"
+		},
+		{
+			"quote": "Power comes in response to a need, not a desire. You have to create that need.",
+			"character": "Son Goku",
+			"title": "Dragon Ball"
+		},
+		{
+			"quote": "The only way to truly escape the mundane is for you to constantly be evolving. Whether you choose to aim high, or aim low. Enjoy each day for what it is.",
+			"character": "Izaya Orihara",
+			"title": "Durarara!!"
+		},
+		{
+			"quote": "No matter how deep the night, it always turns to day, eventually.",
+			"character": "Brook",
+			"title": "One Piece"
+		},
+		{
+			"quote": "A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own.",
+			"character": "Jiraiya",
+			"title": "Naruto"
+		},
+		{
+			"quote": "If you can’t do something, then don’t. Focus on what you can do.",
+			"character": "Shiroe",
+			"title": "Log Horizon"
+		},
+		{
+			"quote": "There’s no such thing as a painless lesson. They just don’t exist. Sacrifices are necessary. You can’t gain anything without losing something first.",
+			"character": "Edward Elric",
+			"title": "Fullmetal Alchemist"
+		},
+		{
+			"quote": "Hard work betrays none, but dreams betray many. ",
+			"character": "Hachiman Hikigaya",
+			"title": "My Youth Romantic Comedy Is Wrong, As I Expected"
+		},
+		{
+			"quote": "Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!",
+			"character": "Izuku Midoriya",
+			"title": "My Hero Academia"
+		},
+		{
+			"quote": "If you begin to regret, you’ll dull your future decisions and let others make your choices for you.",
+			"character": "Erwin Smith",
+			"title": "Attack on Titan"
+		},
+		{
+			"quote": "You can die anytime, but living takes true courage.",
+			"character": "Kenshin Himura",
+			"title": "Rurouni Kenshin"
+		},
+		{
+			"quote": "No matter how scared you are, you should smile to show that you’re okay. Because in this world, the ones who are smiling are the strongest.",
+			"character": "Nana Shimura",
+			"title": "My Hero Academia"
+		},
+		{
+			"quote": "Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness.",
+			"character": "Gilgamesh",
+			"title": "Fate/Zero"
+		},
+		{
+			"quote": "Pain is your friend; it is your ally. Pain tells you when you have been seriously wounded. And you know what’s the best thing about pain? It tells you that you’re not dead yet!",
+			"character": "Ken Kaneki",
+			"title": "Tokyo Ghoul"
+		},
+		{
+			"quote": "When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey.",
+			"character": "Hinata Miyake",
+			"title": "A Place Further than the Universe"
+		},
+		{
+			"quote": "When you’re scared, it’s all the more reason to move forward.",
+			"character": "Kittan Bachika",
+			"title": "Gurren Lagann"
+		},
+		{
+			"quote": "Stand up and walk. Move on. After all, you have perfect legs to stand on.",
+			"character": "Edward Elric",
+			"title": "Fullmetal Alchemist"
+		},
+		{
+			"quote": "Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart.",
+			"character": "Mavis Vermillion",
+			"title": "Fairy Tail"
+		},
+		{
+			"quote": "If you win, you live. If you lose, you die. If you don’t fight, you can’t win!",
+			"character": "Eren Yeager",
+			"title": "Attack on Titan"
+		},
+		{
+			"quote": "The circumstances of one’s birth are irrelevant, but it is what you do with the gift of life that determines who you are.",
+			"character": "Mewtwo",
+			"title": "Pokémon: The First Movie"
+		},
+		{
+			"quote": "If you really want to become strong, stop caring about what others think about you. Living your life has nothing to do with what others think.",
+			"character": "Saitama",
+			"title": "One Punch Man"
+		},
+		{
+			"quote": "A dropout will beat a genius through hard work.",
+			"character": "Rock Lee",
+			"title": "Naruto"
 		}
 	]
 }
